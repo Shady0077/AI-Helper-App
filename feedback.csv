@@ -1,0 +1,22 @@
+timestamp,function,prompt_variant,user_input,assistant_output,helpful,comment
+2025-08-29 12:06:25,qa,variant1,Who are you?,"I am a large language model, trained by Google.  I am an AI that can process information and respond to a wide range of prompts and questions.",no,no
+2025-08-29 12:32:54,creative,variant3-conf:high,A horror story,"The flickering holo-screen cast Elara’s face in an eerie green light.  Rain lashed against the viewport of the derelict space station, mirroring the storm brewing inside her.  Across the cramped, metallic table sat Jax, his usually jovial face etched with grim lines.
+
+“It started subtly,” Jax said, his voice a low rumble. “Whispers in the ventilation shafts.  Flickering lights.  Then… the disappearances.”
+
+Elara shivered, pulling her threadbare thermal cloak tighter. “The crew… they just vanished?”
+
+“Not vanished,” Jax corrected, his gaze distant. “More like… absorbed.  Like the station itself swallowed them whole.” He gestured to the corroded metal walls. “The metal… it’s different now.  Feels… hungry.”
+
+Elara examined the wall.  It seemed normal enough, but a prickling unease crawled up her spine.  She’d felt it too – a subtle shift in the air, a pressure against her skin, like being watched by something vast and unseen.
+
+“We found this,” Jax said, producing a data chip.  He inserted it into Elara’s console.  A grainy video flickered to life, showing a crew member, Silas, walking down a corridor.  His face was pale, his movements jerky. Then, the metal wall seemed to ripple, a dark, oily sheen spreading across its surface. Silas screamed, a sound abruptly cut",yes,good output
+2025-08-29 20:56:47,qa,variant3,A Horror Story,"Answer: The flickering gaslight revealed not a friendly face, but rows of needle-sharp teeth in the darkness beyond the bedroom door.
+
+**Steps:**
+
+1. **Setting the scene:** The description of the flickering gaslight immediately establishes a period piece, adding to the antiquated horror. The darkness beyond the door creates suspense and anticipation of something unseen and menacing.
+2. **The reveal:** The unexpected description of ""rows of needle-sharp teeth"" is a horrifying image that directly contradicts the expected friendly face, making the horror visceral and immediate.
+
+
+Confidence Level: 95%",yes,This was helpful but increase the limit.
